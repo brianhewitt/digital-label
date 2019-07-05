@@ -3,9 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
+    "blue": 0,
+    "green": 0,
+    "red": 0
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
@@ -30,7 +30,7 @@
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -47,30 +47,38 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
-      "id": "356673E8-8DF3-406C-9042-62F1A7648361"
-    },
-    {
-      "class": "group",
-      "id": "3800BB8B-E04B-4033-8D33-35946192E162"
-    },
-    {
-      "class": "group",
-      "id": "B1B0AC50-5052-42D0-95FC-FA32DD5505C9"
-    },
-    {
-      "class": "group",
-      "id": "BD0F056B-A53B-4193-A57F-4417342D7E54"
+      "id": "0A3BBB75-A86D-4CA2-8860-C32540EE97E8"
     },
     {
       "class": "text",
-      "id": "8EDBD572-1554-47BC-95D4-C77FE42BEB34"
+      "id": "3178F4AB-42BA-4A2F-A167-CA37BE307370"
+    },
+    {
+      "class": "text",
+      "id": "1F07D727-A028-44A1-8948-EAD86717000C"
+    },
+    {
+      "class": "bitmap",
+      "id": "26B8BD91-56B4-4E5B-A209-DEB1596F7852"
+    },
+    {
+      "class": "group",
+      "id": "7B871AFF-9966-41F7-B744-0D3C468F67A1"
+    },
+    {
+      "class": "group",
+      "id": "E994285C-D0A1-48DB-9360-AC87364BAC6A"
+    },
+    {
+      "class": "text",
+      "id": "0204420B-2E99-4FB6-86BC-1FB0870839A7"
     }
   ],
-  "name": "digital label - home",
+  "name": "digital label - home (dark mode)",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

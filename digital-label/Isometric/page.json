@@ -40,12 +40,20 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "3898F6C2-01E2-4C39-B55E-55BFEB801008"
+      "class": "artboard",
+      "id": "DA046D04-1BF3-416D-96C2-BFC87F8D047F"
     },
     {
       "class": "artboard",
-      "id": "DA046D04-1BF3-416D-96C2-BFC87F8D047F"
+      "id": "063F0951-7679-4931-AE8C-8A331C4F7D4A"
+    },
+    {
+      "class": "artboard",
+      "id": "FE3D2710-F9D7-4450-AFC9-508FBA756C35"
+    },
+    {
+      "class": "artboard",
+      "id": "CA28DFE7-AB3D-4A24-9230-B8463D15AFA5"
     }
   ],
   "name": "Isometric",

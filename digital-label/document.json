@@ -37,6 +37,7 @@
     "version": 119
   },
   "pages": [
-    "Isometric"
+    "Isometric",
+    "thumbnail"
   ]
 }

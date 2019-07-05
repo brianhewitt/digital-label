@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6A169D01-4203-412C-BA1A-3F7E05C7DD64",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "054889A0-4190-4A9A-8A5B-87329BCABCC1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "08A65CE2-B35D-4BF0-A3C9-5F70F5E5270B",
+    "height": 154,
+    "width": 155,
+    "x": 146,
+    "y": 98
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "41EA30B3-716A-4EC1-B06B-89F285B6CB15"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "17F30D02-34FB-4211-8883-0B286D4692DA"
+    },
+    {
+      "class": "shapePath",
+      "id": "5CA77724-A09B-4AA2-8EA7-56605CE96AC8"
+    },
+    {
+      "class": "shapePath",
+      "id": "5F970F34-DCFE-456A-942D-8F6BEB2C5FF6"
+    }
+  ],
+  "name": "Hot Spot Logo",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D24936B5-9828-45CD-822C-BBF366B5FD5A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

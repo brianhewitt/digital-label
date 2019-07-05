@@ -1,0 +1,112 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FE3D2710-F9D7-4450-AFC9-508FBA756C35",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 3840,
+    "width": 925,
+    "x": 2164,
+    "y": -1491
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "6CAE1830-4745-4AF7-8802-17E68559BF16"
+    },
+    {
+      "class": "text",
+      "id": "8ABD7BBB-A622-4628-95FE-3507DADA70EC"
+    },
+    {
+      "class": "text",
+      "id": "44939DBE-2AD8-49C4-985F-B59BAB2C0C61"
+    },
+    {
+      "class": "bitmap",
+      "id": "3B721C4D-CF32-4D3C-8585-7D4D2ED1F0AC"
+    },
+    {
+      "class": "text",
+      "id": "B62428BE-95E4-4DA7-8C90-2D593B3C5FAC"
+    },
+    {
+      "class": "group",
+      "id": "025BA658-D55B-4B0A-AF73-1E2640DB88CD"
+    },
+    {
+      "class": "group",
+      "id": "0797D33C-E743-4062-B764-B84C6A35A454"
+    },
+    {
+      "class": "text",
+      "id": "43ABDC08-C892-47AD-ACC5-8345FB29337E"
+    }
+  ],
+  "name": "digital label - home (white)",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 3840,
+    "name": "digital label",
+    "offersLandscapeVariant": 0,
+    "width": 925
+  },
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

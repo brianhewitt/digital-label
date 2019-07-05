@@ -1,2 +1,2 @@
 # digital-label
-SketchApp json data
+SketchApp json data for digital label prototype

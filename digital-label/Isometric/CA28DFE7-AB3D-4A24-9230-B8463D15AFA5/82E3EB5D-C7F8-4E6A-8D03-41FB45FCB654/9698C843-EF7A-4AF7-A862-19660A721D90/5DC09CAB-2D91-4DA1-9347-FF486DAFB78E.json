@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.3764705882352941,
+            "green": 0.3764705882352941,
+            "red": 0.3764705882352941
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "AvenirLTPro-Black",
-              "size": 40
+              "size": 50
             }
           },
           "paragraphStyle": {
@@ -29,19 +29,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 23,
+        "length": 15,
         "location": 0
       }
     ],
-    "string": "choose a different item"
+    "string": "choose language"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4A9CFEC9-51C8-4227-864D-10586C3CC562",
+  "do_objectID": "5DC09CAB-2D91-4DA1-9347-FF486DAFB78E",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "B2AE670C-F963-46E8-914E-D199849434EC",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,12 +53,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 120,
-    "width": 220,
-    "x": 203,
-    "y": 80
+    "do_objectID": "6EDC37BE-9915-45BC-AA89-3BE68615D63A",
+    "height": 50,
+    "width": 397,
+    "x": 29,
+    "y": 28.5
   },
-  "glyphBounds": "{{1, -1}, {164, 112}}",
+  "glyphBounds": "{{1, 0}, {394, 51}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,32 +68,34 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "choose a different i",
+  "name": "choose language",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "96B1D2FA-BD44-48AD-A304-214203DC23AA",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "64FD6F24-1988-43ED-A9F9-7EBB9E5CF4A9",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.3764705882352941,
+          "green": 0.3764705882352941,
+          "red": 0.3764705882352941
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "AvenirLTPro-Black",
-            "size": 40
+            "size": 50
           }
         },
         "paragraphStyle": {
@@ -107,7 +111,7 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1,
+  "textBehaviour": 0,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

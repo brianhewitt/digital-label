@@ -31,7 +31,7 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 1,
+        "length": 653,
         "location": 0
       },
       {
@@ -63,7 +63,7 @@
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 16,
-        "location": 1
+        "location": 653
       },
       {
         "_class": "stringAttribute",
@@ -93,8 +93,8 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 31,
-        "location": 17
+        "length": 475,
+        "location": 669
       },
       {
         "_class": "stringAttribute",
@@ -125,7 +125,7 @@
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 13,
-        "location": 48
+        "location": 1144
       },
       {
         "_class": "stringAttribute",
@@ -155,78 +155,16 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 32,
-        "location": 61
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "AvenirLTPro-Black",
-              "size": 30
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "baseWritingDirection": 0,
-            "maximumLineHeight": 40,
-            "minimumLineHeight": 40,
-            "tighteningFactorForTruncation": 0.05
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 16,
-        "location": 93
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "AvenirLTPro-Roman",
-              "size": 30
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "baseWritingDirection": 0,
-            "maximumLineHeight": 40,
-            "minimumLineHeight": 40,
-            "tighteningFactorForTruncation": 0.05
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 48,
-        "location": 109
+        "length": 470,
+        "location": 1157
       }
     ],
-    "string": "\nBoym, Constantin (Russian, b. 1955), Designer \nBoym, Laurene (American, b. 1964), Designer \nRochelle, Chris  (American, b. 1977), Assistant GlassLab, Maker\n"
+    "string": "Constantin and Laurene Boym run Boym Partners, Inc., a New York-based design studio established in 1986. Boym Partners designs products such as tableware for Alessi and Authentics, watches for Swatch, lighting for Flos, showrooms and retail displays for Vitra, and exhibitions for Cooper-Hewitt, National Design Museum in New York, and the National Building Museum in Washington, DC. Objects designed by Boym Partners are included in the permanent collection of The Museum of Modern Art in New York City. Boym Partners’ awards include eight I.D. Magazine Annual Design Awards, the 2009 National Design Award, and two Federal Design Achievement Awards.\n\nConstantin Boym was born in Moscow, U.S.S.R., in 1955. He graduated from Moscow Architectural Institute, and in 1985, he earned a master’s degree in industrial design from Domus Academy in Milan. In 1986, he established Boym Partners, Inc. in New York City. From 1987 to 2000, Constantin Boym was a teacher and program coordinator at the Parsons School of Design. In 2010, he became professor and director of graduate design studies at the Virginia Commonwealth University campus in Qatar.\n\nLaurene Boym was born in New York City in 1964. She earned a BFA in 1984 from the School of Visual Arts in New York, and a MID in 1993 from Pratt Institute in New York. She was a founder of the Association of Women Industrial Designers (AWID) in 1992, and was Designer-in-Residence at the Cooper-Hewitt, National Design Museum in 1993. She joined Boym Partners, Inc. in 1995. Laurene Boym also teaches design at the Parsons School of Design and the School of Visual Arts in New York."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "01B7248E-52F4-475E-A3CB-B5532FA480E6",
+  "do_objectID": "569B74F7-5A8D-4EA2-BE5A-9D8B7C9CCF12",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -240,12 +178,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 375,
-    "width": 925,
+    "height": 1259,
+    "width": 866,
     "x": 30,
-    "y": 821
+    "y": 2778
   },
-  "glyphBounds": "{{0, 34}, {630, 325}}",
+  "glyphBounds": "{{-1, 11}, {864, 1231}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -254,7 +192,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Boym, Constantin (Ru",
+  "name": "Constantin and Laure",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -263,7 +201,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "8086F630-C48D-4196-AF7E-5C1E14540C26",
+    "do_objectID": "29AEC34A-8804-4FE1-B842-24F422675ADB",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

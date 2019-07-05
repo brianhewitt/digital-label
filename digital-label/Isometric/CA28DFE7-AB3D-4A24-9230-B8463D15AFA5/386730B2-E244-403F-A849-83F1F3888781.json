@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AvenirLTPro-Black",
-              "size": 50
+              "name": "AvenirLTPro-Roman",
+              "size": 30
             }
           },
           "paragraphStyle": {
@@ -25,20 +25,22 @@
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
             "baseWritingDirection": 0,
+            "maximumLineHeight": 40,
+            "minimumLineHeight": 40,
             "tighteningFactorForTruncation": 0.05
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 27,
+        "length": 26,
         "location": 0
       }
     ],
-    "string": "Oil Spill Platter Prototype"
+    "string": "United States, NY, Corning"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "3FBBED9A-D76D-4889-8AE4-6F28BAC9EF69",
+  "do_objectID": "386730B2-E244-403F-A849-83F1F3888781",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,12 +54,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 50,
-    "width": 613,
+    "height": 59,
+    "width": 538,
     "x": 30,
-    "y": 704
+    "y": 1845
   },
-  "glyphBounds": "{{1, 0}, {611, 51}}",
+  "glyphBounds": "{{2, 11}, {357, 31}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,14 +68,16 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Oil Spill Platter Pr",
+  "name": "United States, NY, C",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "E41D9FCD-314B-4D2C-B387-1853F4FCC46F",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "5E83215B-5BA1-4740-9F3F-7E43D5579DA0",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -90,8 +94,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AvenirLTPro-Black",
-            "size": 50
+            "name": "AvenirLTPro-Roman",
+            "size": 30
           }
         },
         "paragraphStyle": {
@@ -99,6 +103,8 @@
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
           "baseWritingDirection": 0,
+          "maximumLineHeight": 40,
+          "minimumLineHeight": 40,
           "tighteningFactorForTruncation": 0.05
         },
         "textStyleVerticalAlignmentKey": 0
@@ -107,11 +113,11 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
+  "textBehaviour": 2,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "isAutoWidth": 1
+        "isAutoWidth": 0
       }
     }
   }

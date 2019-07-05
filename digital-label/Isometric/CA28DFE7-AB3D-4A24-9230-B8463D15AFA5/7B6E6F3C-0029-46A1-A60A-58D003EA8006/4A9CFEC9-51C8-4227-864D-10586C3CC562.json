@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "AvenirLTPro-Black",
-              "size": 50
+              "size": 40
             }
           },
           "paragraphStyle": {
@@ -29,16 +29,16 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 27,
+        "length": 23,
         "location": 0
       }
     ],
-    "string": "Oil Spill Platter Prototype"
+    "string": "choose a different item"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "3FBBED9A-D76D-4889-8AE4-6F28BAC9EF69",
+  "do_objectID": "4A9CFEC9-51C8-4227-864D-10586C3CC562",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 50,
-    "width": 613,
-    "x": 30,
-    "y": 704
+    "height": 120,
+    "width": 220,
+    "x": 203,
+    "y": 48
   },
-  "glyphBounds": "{{1, 0}, {611, 51}}",
+  "glyphBounds": "{{1, -1}, {164, 112}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,9 +66,9 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Oil Spill Platter Pr",
+  "name": "choose a different i",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -91,7 +91,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "AvenirLTPro-Black",
-            "size": 50
+            "size": 40
           }
         },
         "paragraphStyle": {
@@ -107,7 +107,7 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
+  "textBehaviour": 1,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

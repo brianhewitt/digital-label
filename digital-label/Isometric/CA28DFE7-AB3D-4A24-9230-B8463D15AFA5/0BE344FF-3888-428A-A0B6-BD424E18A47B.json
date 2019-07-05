@@ -9,17 +9,18 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.3768115942028986,
+            "green": 0.3768115942028986,
+            "red": 0.3768115942028986
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AvenirLTPro-Black",
-              "size": 50
+              "name": "AvenirLTPro-Roman",
+              "size": 40
             }
           },
+          "MSAttributedStringTextTransformAttribute": 1,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
@@ -29,16 +30,16 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 27,
+        "length": 10,
         "location": 0
       }
     ],
-    "string": "Oil Spill Platter Prototype"
+    "string": "Place Made"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "3FBBED9A-D76D-4889-8AE4-6F28BAC9EF69",
+  "do_objectID": "0BE344FF-3888-428A-A0B6-BD424E18A47B",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -53,11 +54,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 50,
-    "width": 613,
+    "width": 286,
     "x": 30,
-    "y": 704
+    "y": 1795
   },
-  "glyphBounds": "{{1, 0}, {611, 51}}",
+  "glyphBounds": "{{3, 0}, {249, 31}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,14 +67,16 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Oil Spill Platter Pr",
+  "name": "Place Made",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "029D1D24-BE2B-4C04-AA17-E6F21013488E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "96D90886-199C-4867-8BE4-CB459961213A",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -83,17 +86,18 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.3768115942028986,
+          "green": 0.3768115942028986,
+          "red": 0.3768115942028986
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AvenirLTPro-Black",
-            "size": 50
+            "name": "AvenirLTPro-Roman",
+            "size": 40
           }
         },
+        "MSAttributedStringTextTransformAttribute": 1,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
@@ -107,11 +111,11 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
+  "textBehaviour": 2,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "isAutoWidth": 1
+        "isAutoWidth": 0
       }
     }
   }

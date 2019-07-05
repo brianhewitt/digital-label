@@ -3,8 +3,25 @@
   "assets": {
     "_class": "assetCollection",
     "colorAssets": [
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3768115942028986,
+          "green": 0.3768115942028986,
+          "red": 0.3768115942028986
+        }
+      }
     ],
     "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3768115942028986,
+        "green": 0.3768115942028986,
+        "red": 0.3768115942028986
+      }
     ],
     "gradientAssets": [
     ],

@@ -64,6 +64,38 @@
     {
       "class": "group",
       "id": "DEBB3E8F-C062-479F-88F7-9B3EEA164729"
+    },
+    {
+      "class": "rectangle",
+      "id": "54002E86-E47B-4808-B447-4EC1D17C49C3"
+    },
+    {
+      "class": "rectangle",
+      "id": "FE80F5BC-D87F-435C-9039-A291AAC33846"
+    },
+    {
+      "class": "rectangle",
+      "id": "1609C5FF-8BFE-4F51-B274-5EB784FA9F4B"
+    },
+    {
+      "class": "rectangle",
+      "id": "1FCCF14B-7BD0-4D8A-A235-865DF8E55040"
+    },
+    {
+      "class": "bitmap",
+      "id": "934B7D5C-1A3A-47C0-BC3A-013409136F0B"
+    },
+    {
+      "class": "text",
+      "id": "3FBBED9A-D76D-4889-8AE4-6F28BAC9EF69"
+    },
+    {
+      "class": "text",
+      "id": "81B72F60-C4AA-4B48-908F-5BABDB497087"
+    },
+    {
+      "class": "text",
+      "id": "01B7248E-52F4-475E-A3CB-B5532FA480E6"
     }
   ],
   "name": "digital label",

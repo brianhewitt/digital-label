@@ -2,10 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "57F0D380-DC89-4AD9-8FC4-FEA82C1FD4FF",
+  "do_objectID": "1FCCF14B-7BD0-4D8A-A235-865DF8E55040",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "A90E8CC9-4E2A-40F7-BCF1-F5C671EFCA19",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +17,12 @@
   "fixedRadius": 0,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 200,
-    "width": 536,
-    "x": 0,
-    "y": 32
+    "constrainProportions": true,
+    "do_objectID": "C64032A4-3BD2-4A81-8878-B5DE6823CD22",
+    "height": 30,
+    "width": 30,
+    "x": 117,
+    "y": 102
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -31,7 +33,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Rectangle",
+  "name": "Rectangle Copy 3",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
@@ -88,16 +90,17 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "fillType": 0,
         "isEnabled": true,
         "position": 1,
-        "thickness": 1
+        "thickness": 3
       }
     ],
+    "do_objectID": "9682410D-DBAE-4D96-84FC-880A3B43369C",
     "endMarkerType": 0,
     "fills": [
       {
@@ -105,12 +108,12 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 0,
@@ -120,5 +123,26 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 23,
+            "enabled": 1,
+            "modelID": "constraint_c6e1de47-74ba-4342-9fbf-510d6bce99af",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 23
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_580562b5-dfe6-4749-b992-435ccac86a50",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
   }
 }

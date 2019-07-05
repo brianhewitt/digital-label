@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "90931130-6CA6-4553-8CDC-D73B34AE19E5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3119F547-37A5-4E6A-A31A-65BD254CCD7B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "582B00CD-6E81-4E29-B3DF-6B9FC0465BB4",
+    "height": 35,
+    "width": 62,
+    "x": 838,
+    "y": 35.5
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "C4164DBA-FCE8-4E5F-8A8E-918581FE776F"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "3AF535DF-6AD0-4089-8C1D-E56F415BCD8B"
+    }
+  ],
+  "name": "chevron up - large",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3963E7DD-C91B-4E6B-A6AC-9C399F1BFAEC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

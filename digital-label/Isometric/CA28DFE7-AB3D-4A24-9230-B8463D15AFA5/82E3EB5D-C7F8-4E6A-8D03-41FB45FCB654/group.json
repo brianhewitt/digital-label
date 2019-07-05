@@ -18,7 +18,7 @@
     "height": 105,
     "width": 926,
     "x": 0,
-    "y": 3730
+    "y": 5714
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -43,7 +43,7 @@
   ],
   "name": "language button",
   "nameIsFixed": true,
-  "resizingConstraint": 63,
+  "resizingConstraint": 45,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

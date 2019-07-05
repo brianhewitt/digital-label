@@ -1,15 +1,8 @@
 {
-  "_class": "artboard",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "8CBC7082-5451-4FDF-BB69-E9DAA7B640F0",
+  "do_objectID": "A9D528BE-FA07-48C4-BF73-6806C92A06A3",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,59 +15,43 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 3840,
-    "width": 925,
-    "x": -463,
-    "y": -1921
+    "height": 400,
+    "width": 400,
+    "x": 50,
+    "y": 2360
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
   "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "rectangle",
+      "id": "8AB074D8-EA6A-42A4-88E2-4948DB4F5495"
+    },
+    {
+      "class": "bitmap",
+      "id": "03745893-5347-4EF4-B587-3CB2C65F79A2"
+    }
   ],
-  "name": "digital label",
+  "name": "Bitmap",
   "nameIsFixed": false,
-  "presetDictionary": {
-    "allowResizedMatching": 0,
-    "height": 3840,
-    "name": "digital label",
-    "offersLandscapeVariant": 0,
-    "width": 925
-  },
-  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }

@@ -1,0 +1,124 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "AvenirLTPro-Roman",
+              "size": 30
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "baseWritingDirection": 0,
+            "maximumLineHeight": 40,
+            "minimumLineHeight": 40,
+            "tighteningFactorForTruncation": 0.05
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 934,
+        "location": 0
+      }
+    ],
+    "string": "Design is placeholder text. Elit officia gastropub scenester, snackwave flannel hashtag. Microdosing bicycle rights heirloom, cold-pressed man braid fam lorem. Small batch irony meditation migas butcher. Skateboard tacos scenester subway tile brunch est. Health goth proident chambray everyday carry hell of kale chips vice.\n\nExcepteur gastropub meditation, blog selvage craft beer polaroid hashtag drinking vinegar banjo hot chicken enim fam crucifix. Enamel pin offal vinyl brooklyn blog farm-to-table woke. Pinterest sunt reprehenderit, laborum stumptown heirloom try-hard beard coloring book locavore nisi pariatur.\n\nPinterest church-key proident bicycle rights cillum id sartorial minim williamsburg. Irure photo booth pinterest chia sint aliquip, pok pok unicorn hella tumeric synth heirloom. Tbh kombucha flexitarian elit eu. 90's iPhone id tumblr hoodie pug occaecat PBR&B anim af pop-up vape cloud bread single-origin coffee."
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "338E3771-6224-4B71-B02A-185A8C5030A4",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 904,
+    "width": 828,
+    "x": 50,
+    "y": 2341
+  },
+  "glyphBounds": "{{0, 10}, {817, 792}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Design is placeholde",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "E41D9FCD-314B-4D2C-B387-1853F4FCC46F",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D59960E0-01D2-4865-9229-45716701FE4A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "AvenirLTPro-Roman",
+            "size": 30
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "baseWritingDirection": 0,
+          "maximumLineHeight": 40,
+          "minimumLineHeight": 40,
+          "tighteningFactorForTruncation": 0.05
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
+}

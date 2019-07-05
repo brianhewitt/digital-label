@@ -12,6 +12,12 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 0,
+    "destinationArtboardID": "CA28DFE7-AB3D-4A24-9230-B8463D15AFA5",
+    "do_objectID": "39B96BA5-1ECA-4C9D-BED9-93A2D85AC775"
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
@@ -30,7 +36,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",

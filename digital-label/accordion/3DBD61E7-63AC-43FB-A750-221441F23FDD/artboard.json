@@ -1,0 +1,120 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3DBD61E7-63AC-43FB-A750-221441F23FDD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 3840,
+    "width": 925,
+    "x": -463,
+    "y": -6473
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "0B1168E0-9B03-4954-8877-E85C9DCBED71"
+    },
+    {
+      "class": "text",
+      "id": "D99FCA6F-BE67-4BEC-9584-8319E0362953"
+    },
+    {
+      "class": "text",
+      "id": "F9E9676A-B403-48AA-AA45-0E0E05E03DBF"
+    },
+    {
+      "class": "group",
+      "id": "8142D87B-957C-415C-9379-2BDF0C67CA76"
+    },
+    {
+      "class": "group",
+      "id": "37E5F251-55C7-4FE1-8946-9BB78F3D7896"
+    },
+    {
+      "class": "group",
+      "id": "8054BF59-CFD7-4A66-9D4C-3E1343CA229A"
+    },
+    {
+      "class": "group",
+      "id": "CACB554B-9853-4DC3-83B5-DC6EC1FB1B76"
+    },
+    {
+      "class": "group",
+      "id": "109FAC11-4213-4DE0-AADC-C7E2FB712C21"
+    },
+    {
+      "class": "group",
+      "id": "197E894A-4AEA-4D55-807C-6622A37A9E61"
+    },
+    {
+      "class": "group",
+      "id": "424882B5-8272-4E50-90A9-52FD4AFF998E"
+    }
+  ],
+  "name": "accordion closed (white)",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 3840,
+    "name": "digital label",
+    "offersLandscapeVariant": 0,
+    "width": 925
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A166D3D0-DA36-45E0-8699-0D77FB392908",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 114,
+    "width": 926,
+    "x": 0,
+    "y": 3727.5
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "76621EBA-0BAF-44A9-8FDE-8687CB81E4A8"
+    },
+    {
+      "class": "shapePath",
+      "id": "0C73D580-F588-488B-A0D0-D7C3F32CFD0E"
+    },
+    {
+      "class": "text",
+      "id": "C2E9A067-2131-4E42-9E6B-64BD4DDBDBD8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A0644812-81E7-4182-889C-07D4E3F5DE5D"
+    }
+  ],
+  "name": "language accordion",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

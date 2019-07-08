@@ -1,0 +1,120 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.2,
+    "green": 0.2,
+    "red": 0.2
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F821E3C6-F203-40CC-A83C-83B5F41A56C3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 3840,
+    "width": 925,
+    "x": 562,
+    "y": -1921
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "648E6D32-D46E-4A1A-A11E-83A9A01AE89B"
+    },
+    {
+      "class": "text",
+      "id": "5FD13143-0B3E-40C7-B3C2-EE2F252CA2E9"
+    },
+    {
+      "class": "text",
+      "id": "6B13A0B6-48DF-46B4-BB49-32BD9CAEF281"
+    },
+    {
+      "class": "group",
+      "id": "012D260E-B004-4B70-9E91-A7B0BC9E6884"
+    },
+    {
+      "class": "group",
+      "id": "8E92BF5F-075F-4112-A9A3-7C7EBBCD6B72"
+    },
+    {
+      "class": "group",
+      "id": "C07695FB-7915-4EF8-A32A-2076CADD4FD5"
+    },
+    {
+      "class": "group",
+      "id": "3364380F-7BF0-4DFC-A905-A72E7C8C21E7"
+    },
+    {
+      "class": "group",
+      "id": "FA7A4B91-8222-4DD6-9311-E4238CA41F13"
+    },
+    {
+      "class": "group",
+      "id": "4D38283E-8960-4B9F-88CA-828D993BCF97"
+    },
+    {
+      "class": "group",
+      "id": "00A36F25-7466-400C-AF26-CD269B13F83B"
+    }
+  ],
+  "name": "accordion open (grey)",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 3840,
+    "name": "digital label",
+    "offersLandscapeVariant": 0,
+    "width": 925
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

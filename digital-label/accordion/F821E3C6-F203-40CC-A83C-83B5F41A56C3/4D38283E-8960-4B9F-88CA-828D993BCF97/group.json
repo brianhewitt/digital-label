@@ -1,0 +1,119 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4D38283E-8960-4B9F-88CA-828D993BCF97",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 2,
+    "destinationArtboardID": "C73A4140-02C3-4F89-8496-967D666C1501",
+    "do_objectID": "19316745-2228-4E04-AC01-8FC88D750DE8"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 2371,
+    "width": 999,
+    "x": -34,
+    "y": 1813
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C2941CF7-CF41-4B1A-A990-36844773370A"
+    },
+    {
+      "class": "group",
+      "id": "9319A5D8-1CF2-49CD-A284-459C31960E2B"
+    },
+    {
+      "class": "rectangle",
+      "id": "A344266A-B66C-433F-B8BA-7BABB820592B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DA929020-FC3E-4FBF-B2EC-20F9CE0A2739"
+    },
+    {
+      "class": "text",
+      "id": "37753167-0432-46C1-A747-C8D82FB24BB1"
+    },
+    {
+      "class": "text",
+      "id": "972EDDC6-198F-4F5C-8900-0EC65AACAF97"
+    },
+    {
+      "class": "text",
+      "id": "C62EDC32-9A56-41C4-AB75-9E7398C6828B"
+    },
+    {
+      "class": "text",
+      "id": "C90ED79E-4486-4D54-86AC-7AD079363BE9"
+    },
+    {
+      "class": "text",
+      "id": "CB78897F-F061-4F6B-B9F1-68E80DE67D45"
+    },
+    {
+      "class": "text",
+      "id": "E994E01C-4C0E-455A-A918-43B9870C92BB"
+    },
+    {
+      "class": "text",
+      "id": "FB71CC36-2A2A-4D31-AAC1-FDD9C6572BB2"
+    },
+    {
+      "class": "text",
+      "id": "EE5C20B7-5C61-4745-94E0-C906B2094329"
+    },
+    {
+      "class": "text",
+      "id": "F8E8BCD3-C3E9-43B8-82FC-CB238C2577FE"
+    },
+    {
+      "class": "text",
+      "id": "1D0006E0-7FF8-463F-A41B-C8FEB1D07C2A"
+    },
+    {
+      "class": "group",
+      "id": "23F98353-7534-4DAE-A56C-A09C2317670D"
+    },
+    {
+      "class": "group",
+      "id": "50879389-6923-4924-BC86-FF1C21372B99"
+    }
+  ],
+  "name": "accordion 6 - open",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
